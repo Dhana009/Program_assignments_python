@@ -1,1 +1,1 @@
-Thse are the python-programming-assignments given by ineuron
+These are the python-programming-assignments given by ineuron
